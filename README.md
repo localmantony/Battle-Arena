@@ -1,4 +1,5 @@
-Anthony's Battle Arena
+# Anthony's Battle Arena
+
 A turn based battle simulator.
 
 run the following commands to start the game:
